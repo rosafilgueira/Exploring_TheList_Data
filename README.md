@@ -7,7 +7,7 @@ Here we can find facilities for:
 - Upload events & places json files to an ElasticSearch
 - Explore and Analyse Events - Mining Events data - Using Pandas DataFrames & Deep Learning Transformers.  
 
-For visualizing the "Anlyasing_Events" we recommend to use the [nbviewer](https://nbviewer.org/github/rosafilgueira/Exploring_TheList_Data/blob/main/Analysing_Events.ipynb), since it has several images created with plotly. 
+**IMPORTANT** For visualizing the "Anlyasing_Events" notebook we recommend to use the [nbviewer](https://nbviewer.org/github/rosafilgueira/Exploring_TheList_Data/blob/main/Analysing_Events.ipynb), since it has several images created with plotly. 
 
 For downlading data from the [LIST API](https://api.list.co.uk/getting-started), it is necessary to register and get an API KEY.
 
