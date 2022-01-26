@@ -16,10 +16,10 @@ Bellow we have as an example, a place document and event document.
 
 
 - **Events**: 
-  - <img width="1098" alt="place_document" src="https://user-images.githubusercontent.com/6940078/151236352-38e9af2b-0e4b-45ba-9391-b287a2126879.png">
+   <img width="1098" alt="place_document" src="https://user-images.githubusercontent.com/6940078/151236352-38e9af2b-0e4b-45ba-9391-b287a2126879.png">
 
 - **Places**:
-  - <img width="1121" alt="event_document" src="https://user-images.githubusercontent.com/6940078/151236355-10037e7b-ab12-436b-b2db-17b8642ba71e.png">
+   <img width="1121" alt="event_document" src="https://user-images.githubusercontent.com/6940078/151236355-10037e7b-ab12-436b-b2db-17b8642ba71e.png">
 
 The **events and places metadata** are fully documented in this [link](https://api.list.co.uk/documentation). 
 
