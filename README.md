@@ -11,12 +11,19 @@ For visualizing the "Anlyasing_Events" we recommend to use the [nbviewer](https:
 
 For downlading data from the [LIST API](https://api.list.co.uk/getting-started), it is necessary to register and get an API KEY.
 
-Events and places data are downloaded as a collection of documents. Having a document (which is a dictionary) per event and per place. 
+Events and places data are downloaded as a collection of documents. Having a document (which is a dictionary) per event and per place.
+Bellow we have as an example, a place document and event document. 
+
+<img width="1098" alt="place_document" src="https://user-images.githubusercontent.com/6940078/151236352-38e9af2b-0e4b-45ba-9391-b287a2126879.png">
+
+<img width="1121" alt="event_document" src="https://user-images.githubusercontent.com/6940078/151236355-10037e7b-ab12-436b-b2db-17b8642ba71e.png">
 
 The events and places fully documented in this [link](https://api.list.co.uk/documentation). 
 
-A representation of events information can be visualized ![here](./events_png).
+A representation of events information can be visualized bellow
 
-A representation of places information can be visualized ![here](./places_png).
+<img width="1121" alt="events_classes" src="./events_classes.png">
+
+<img width="1121" alt="places_classes" src="./places_classes.png">
 
 
