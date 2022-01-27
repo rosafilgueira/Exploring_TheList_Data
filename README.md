@@ -10,7 +10,7 @@ Here we can find facilities for:
 - Exploring and Analysing Places - Mining Places - Using Pandas DataFrames & Deep Learning Transformers.  
 
 ## 1. Visualizing Analyses Notebooks
-**IMPORTANT** For visualizing the "Analysing_Events/Places" notebooks we recommend to click here:
+For visualizing the "Analysing_Events/Places" notebooks we recommend to click here:
   - [nbviewer_events](https://nbviewer.org/github/rosafilgueira/Exploring_TheList_Data/blob/main/Analysing_Events.ipynb), since it has several images created with plotly. 
   - [nbviewer_places](https://nbviewer.org/github/rosafilgueira/Exploring_TheList_Data/blob/main/Analysing_Places.ipynb), since it has several images created with plotly. 
 
@@ -26,6 +26,8 @@ Once you have your API KEY, modify "download_events.sh" and "download_places.sh"
 These will download data (events and places) in two files (json format):
 - events.json
 - places.json 
+
+The LIST_API notebook has aditional information that can be useful for this step. 
 
 ## 3. Events and Places Features
 
@@ -55,7 +57,6 @@ In order to run "Analysing_Events" and "Analysing_Places" notebooks, you need to
 ## 5. Loading Data to ElasticSearch
 
 Data can be also stored in ElasticSearch. Once you have your data downloaded (see Section 2) open two terminals and follow the next steps:
-
 - **Terminal 1)**
   1. Download [elasticsearch-7.16.3](https://www.elastic.co/downloads/elasticsearch)
   2. Decompress the elasticsearch-7.16.3 folder
