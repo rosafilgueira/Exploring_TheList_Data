@@ -35,3 +35,4 @@ A representation of **places** information can be visualized bellow
 <img width="1121" alt="places_classes" src="./places_classes.png">
 
 
+**NOTE:** In order to run the Analysing_Events and Analysing_Places locally in your computer, you will need to download events and places data, and store them in **events.json** and **places.json** files
