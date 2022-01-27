@@ -9,6 +9,15 @@ Here we can find facilities for:
 - Exploring and Analysing Events - Mining Events - Using Pandas DataFrames & Deep Learning Transformers.  
 - Exploring and Analysing Places - Mining Places - Using Pandas DataFrames & Deep Learning Transformers.  
 
+## 0. Preparations
+
+We recommend to install the requirements specified in requirements.txt for sections 2 to 5.
+And have an enviroment with Python 3.7+
+
+```
+pip install -r requirements.txt in your shell.
+
+```
 ## 1. Visualizing Analyses Notebooks
 For visualizing the "Analysing_Events/Places" notebooks we recommend to click here:
   - [nbviewer_events](https://nbviewer.org/github/rosafilgueira/Exploring_TheList_Data/blob/main/Analysing_Events.ipynb), since it has several images created with plotly. 
