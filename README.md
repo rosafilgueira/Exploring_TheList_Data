@@ -12,7 +12,7 @@ Here we can find facilities for:
 ## 0. Preparations
 
 We recommend to install the requirements specified in requirements.txt for sections 2 to 5.
-And have an enviroment with Python 3.7+
+And also to have Python 3.7+ enviroment. 
 
 ```
 pip install -r requirements.txt 
