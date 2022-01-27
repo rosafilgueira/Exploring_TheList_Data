@@ -20,8 +20,8 @@ pip install -r requirements.txt
 ```
 ## 1. Visualizing Analyses Notebooks
 For visualizing the "Analysing_Events/Places" notebooks we recommend to click here:
-  - [nbviewer_events](https://nbviewer.org/github/rosafilgueira/Exploring_TheList_Data/blob/main/Analysing_Events.ipynb), since it has several images created with plotly. 
-  - [nbviewer_places](https://nbviewer.org/github/rosafilgueira/Exploring_TheList_Data/blob/main/Analysing_Places.ipynb), since it has several images created with plotly. 
+  - [nbviewer_events](https://nbviewer.org/github/rosafilgueira/Exploring_TheList_Data/blob/main/Analysing_Events.ipynb?flush_cache=true), since it has several images created with plotly. 
+  - [nbviewer_places](https://nbviewer.org/github/rosafilgueira/Exploring_TheList_Data/blob/main/Analysing_Places.ipynb?flush_cache=true), since it has several images created with plotly. 
 
 ## 2. Downloading Events and Places Sample Dataset
 
