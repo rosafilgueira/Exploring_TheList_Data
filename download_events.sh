@@ -1,13 +1,13 @@
-
 #!/bin/bash
 set -x
 
-api_key="..."
+api_key="INSERT YOUR KEY"
 i="1"
-while [ $i -lt 252 ]
+NUM="10"
+while [ $i -lt $NUM ]
 do
     echo $i
-    curl -H "Authorization: Bearer "${api_key}" -X GET "https://api.list.co.uk/v1/events?page="${i} >> events_1_252.json
+    curl -H "Authorization: Bearer ${api_key}"  -X GET "https://api.list.co.uk/v1/events?page="${i} >> events.json
     i=$[$i+1]
 done
 
