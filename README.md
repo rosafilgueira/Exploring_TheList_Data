@@ -18,10 +18,10 @@ Here we can find facilities for:
 For downlading data from the [LIST API](https://api.list.co.uk/getting-started), it is necessary to register and get an API KEY.
 Once you have that, you can modify "download_events.sh" and "download_places.sh" bash scripts to insert your api_key, and run them:
 
-"""
+'''
 ./download_events.sh
 ./download_place.sh
-"""
+'''
 
 Data (events and places) will be downloaded in json format. 
 
