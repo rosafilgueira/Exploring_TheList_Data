@@ -5,9 +5,9 @@ This repo has a collection of scripts, and notebooks for mining [The LIST](https
 
 Here we can find facilities for: 
 - Downloading LIST events & places to json files
-- Upload events & places json files to ElasticSearch
-- Explore and Analyse Events - Mining Events - Using Pandas DataFrames & Deep Learning Transformers.  
-- Explore and Analyse Places - Mining Places - Using Pandas DataFrames & Deep Learning Transformers.  
+- Uploading events & places json files to ElasticSearch
+- Exploring and Analysing Events - Mining Events - Using Pandas DataFrames & Deep Learning Transformers.  
+- Exploring and Analysing Places - Mining Places - Using Pandas DataFrames & Deep Learning Transformers.  
 
 ## 1. Visualizing Analyses Notebooks
 **IMPORTANT** For visualizing the "Analysing_Events/Places" notebooks we recommend to click here:
