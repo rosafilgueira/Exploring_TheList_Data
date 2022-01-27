@@ -211,11 +211,11 @@ if __name__ == "__main__":
     print("Deleting-Creating-Loading Places to ES")
     es.indices.delete(index=index_name_places, ignore=[400, 404])
     es.indices.create(index=index_name_places, body=mapping_places, ignore=400)
-    response = helpers.bulk(es, bulk_json_data("places_1_182.json", index_name_places , "_doc"))
+    response = helpers.bulk(es, bulk_json_data("places.json", index_name_places , "_doc"))
     print ("\nRESPONSE-PLACE:", response)
 
     print("Deleting-Creating-Loading Events to ES")
     es.indices.delete(index=index_name_events, ignore=[400, 404])
     es.indices.create(index=index_name_events, body=mapping_events, ignore=400)
-    response = helpers.bulk(es, bulk_json_data("events_1_252.json", index_name_events , "_doc"))
+    response = helpers.bulk(es, bulk_json_data("events.json", index_name_events , "_doc"))
     print ("\nRESPONSE-EVENTS:", response)
