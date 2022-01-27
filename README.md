@@ -45,7 +45,7 @@ In order to run the Analysing_Events and Analysing_Places notebooks locally, you
 Open two terminals and follow the next steps:
 
 - **Terminal 1)**
-  1. Download elasticsearch-7.16.3.
+  1. Download [elasticsearch-7.16.3](https://www.elastic.co/downloads/elasticsearch)
   2. Decompress the elasticsearch-7.16.3 folder
   3. cd elasticsearch-7.16.3/
   4. ./bin/elasticsearch 
