@@ -16,7 +16,6 @@ mapping_places = {
                 "place.the-list-card": {"type":"boolean"},
                 "place.parent-company": {"type":"text"},
                 "place.times.bar-open": {"type":"text"},
-                "place.times.seasonal": {"type":"text"},
                 "place.times.closed-days": {"type":"text"},
                 "place.times.food-served": {"type":"text"},
 		"place.child-restrictions": {"type": "boolean"}, 
