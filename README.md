@@ -2,6 +2,7 @@
 
 
 This repo has a collection of scripts, and notebooks for mining [The LIST](https://api.list.co.uk/). The API serves two main types of **data events and places**. 
+
 Here we can find facilities for: 
 - Downloading LIST events & places to json files
 - Upload events & places json files to ElasticSearch
@@ -16,17 +17,19 @@ Here we can find facilities for:
 ## 2. Downloading Events and Places Sample Dataset
 
 For downlading data from the [LIST API](https://api.list.co.uk/getting-started), it is necessary to register and get an API KEY.
-Once you have that, you can modify "download_events.sh" and "download_places.sh" bash scripts to insert your api_key, and run them:
+Once you have your API KEY you can modify "download_events.sh" and "download_places.sh" and run them:
 
 ```
 ./download_events.sh
 ./download_place.sh
 ```
-Data (events and places) will be downloaded in json format. 
+Data (events and places) will be downloaded in two data files:
+- events.json
+- places.json 
 
 ## 3. Events and Places Features
 
-Events and places data are downloaded as a collection of documents, having a document (which is a dictionary) per event and per place.
+Events and places data are a collection of documents, having a document (which is a dictionary) per event and per place.
 Bellow we have as an example, a place document and event document. 
 
 - **Events**: 
