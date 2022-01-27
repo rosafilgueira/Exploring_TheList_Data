@@ -17,20 +17,20 @@ Here we can find facilities for:
 ## 2. Downloading Events and Places Sample Dataset
 
 For downlading data from the [LIST API](https://api.list.co.uk/getting-started), it is necessary to register and get an API KEY.
-Once you have your API KEY you can modify "download_events.sh" and "download_places.sh" and run them:
+Once you have your API KEY you can modify "download_events.sh" and "download_places.sh" scripts and run them:
 
 ```
 ./download_events.sh
 ./download_place.sh
 ```
-Data (events and places) will be downloaded in two data files:
+Data (events and places) will be downloaded in two data files in json format:
 - events.json
 - places.json 
 
 ## 3. Events and Places Features
 
-Events and places data are a collection of documents, having a document (which is a dictionary) per event and per place.
-Bellow we have as an example, a place document and event document. 
+Events and places data are a collection of documents. We have a document (which is a dictionary) per event and per place.
+Bellow we have two examples, one for an event document and the other for a place document. 
 
 - **Events**: 
    <img width="1098" alt="place_document" src="https://user-images.githubusercontent.com/6940078/151236352-38e9af2b-0e4b-45ba-9391-b287a2126879.png">
@@ -46,11 +46,11 @@ A representation of **events** information can be visualized bellow
 
 A representation of **places** information can be visualized bellow
 
-<img width="1121" alt="places_classes" src="./places_classes.png"3>
+<img width="1121" alt="places_classes" src="./places_classes.png">
 
 ## 4. Running Analyses Notebooks locally
 
-In order to run the Analysing_Events and Analysing_Places notebooks locally, you need to download events and places data first (see section 2), and store them in **events.json** and **places.json** files.
+In order to run "Analysing_Events" and "Analysing_Places" notebooks locally, you need to download events and places data first (see section 2), and store them in **events.json** and **places.json** files.
 
 ## 5. Loading Data to ElasticSearch
 
