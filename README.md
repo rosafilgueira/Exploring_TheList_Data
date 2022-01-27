@@ -17,20 +17,20 @@ Here we can find facilities for:
 ## 2. Downloading Events and Places Sample Dataset
 
 For downlading data from the [LIST API](https://api.list.co.uk/getting-started), it is necessary to register and get an API KEY.
-Once you have your API KEY you can modify "download_events.sh" and "download_places.sh" scripts and run them:
+Once you have your API KEY, modify "download_events.sh" and "download_places.sh" scripts and run them:
 
 ```
 ./download_events.sh
 ./download_place.sh
 ```
-Data (events and places) will be downloaded in two data files in json format:
+These will download data (events and places) in two files (json format):
 - events.json
 - places.json 
 
 ## 3. Events and Places Features
 
 Events and places data are a collection of documents. We have a document (which is a dictionary) per event and per place.
-Bellow we have two examples, one for an event document and the other for a place document. 
+Bellow we have two examples, one for an event document and another for a place document. 
 
 - **Events**: 
    <img width="1098" alt="place_document" src="https://user-images.githubusercontent.com/6940078/151236352-38e9af2b-0e4b-45ba-9391-b287a2126879.png">
@@ -40,21 +40,21 @@ Bellow we have two examples, one for an event document and the other for a place
 
 The **events and places metadata** are fully documented in this [link](https://api.list.co.uk/documentation). 
 
-A representation of **events** information can be visualized bellow
+A representation of **events** information is visualised  bellow:
 
 <img width="1121" alt="events_classes" src="./events_classes.png">
 
-A representation of **places** information can be visualized bellow
+A representation of **places** information is visualised bellow:
 
 <img width="1121" alt="places_classes" src="./places_classes.png">
 
 ## 4. Running Analyses Notebooks locally
 
-In order to run "Analysing_Events" and "Analysing_Places" notebooks locally, you need to download events and places data first (see section 2), and store them in **events.json** and **places.json** files.
+In order to run "Analysing_Events" and "Analysing_Places" notebooks, you need to download events and places data first (see section 2), and store them in **events.json** and **places.json** files.
 
 ## 5. Loading Data to ElasticSearch
 
-Download events and places data (see Section 2), open two terminals and follow the next steps:
+Data can be also stored in ElasticSearch. Once you have your data downloaded (see Section 2) open two terminals and follow the next steps:
 
 - **Terminal 1)**
   1. Download [elasticsearch-7.16.3](https://www.elastic.co/downloads/elasticsearch)
@@ -65,6 +65,6 @@ Download events and places data (see Section 2), open two terminals and follow t
 
 - **Terminal  2)**
    1. python create_load_indexes_ES.py  —> It creates two ES indexes (events and places) and loads the json files (events.json and places.json) into Elastic Search. 
-   2. ``` curl 'localhost:9200/_cat/indices?v’ ``` —> It checks that the indexes and data have been created correctly in ElasticSearch
+   2. ``` curl 'localhost:9200/_cat/indices?v’ ``` —> It checks that the indexes and data have been created correctly in ElasticSearch (ES).
 
-
+At the end of these steps you will events and data stored in your ElasticSearch. You can visualise this data (once is in ES) automatically also using Kibana. 
