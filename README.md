@@ -18,11 +18,10 @@ Here we can find facilities for:
 For downlading data from the [LIST API](https://api.list.co.uk/getting-started), it is necessary to register and get an API KEY.
 Once you have that, you can modify "download_events.sh" and "download_places.sh" bash scripts to insert your api_key, and run them:
 
-'''
+```
 ./download_events.sh
 ./download_place.sh
-'''
-
+```
 Data (events and places) will be downloaded in json format. 
 
 ## 3. Events and Places Features
@@ -63,6 +62,6 @@ Download events and places data (see Section 2), open two terminals and follow t
 
 - **Terminal  2)**
    1. python create_load_indexes_ES.py  —> It creates two ES indexes (events and places) and loads the json files (events.json and places.json) into Elastic Search. 
-   2. curl 'localhost:9200/_cat/indices?v’  —> It checks that the indexes and data have been created correctly in ElasticSearch
+   2. ``` curl 'localhost:9200/_cat/indices?v’ ``` —> It checks that the indexes and data have been created correctly in ElasticSearch
 
 
