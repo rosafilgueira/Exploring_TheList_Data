@@ -27,7 +27,7 @@ These will download data (events and places) in two files (json format):
 - events.json
 - places.json 
 
-The LIST_API notebook has aditional information that can be useful for this step. 
+**Note**: The LIST_API notebook has aditional information that can be useful for this step. 
 
 ## 3. Events and Places Features
 
@@ -69,3 +69,5 @@ Data can be also stored in ElasticSearch. Once you have your data downloaded (se
    2. ``` curl 'localhost:9200/_cat/indices?v’ ``` —> It checks that the indexes and data have been created correctly in ElasticSearch (ES).
 
 At the end of these steps you will events and data stored in your ElasticSearch. You can visualise this data (once is in ES) automatically also using Kibana. 
+
+**Note**: The LIST_API notebook has aditional information that can be useful for this step.
