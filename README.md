@@ -15,7 +15,7 @@ We recommend to install the requirements specified in requirements.txt for secti
 And have an enviroment with Python 3.7+
 
 ```
-pip install -r requirements.txt in your shell.
+pip install -r requirements.txt 
 
 ```
 ## 1. Visualizing Analyses Notebooks
