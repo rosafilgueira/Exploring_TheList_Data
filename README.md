@@ -21,8 +21,13 @@ pip install -r requirements.txt
 ```
 ## 1. Visualizing Analyses Notebooks
 For visualizing the "Analysing_Events/Places" notebooks we recommend to click here:
-  - [events](https://nbviewer.org/github/rosafilgueira/Exploring_TheList_Data/blob/main/html_visualizations/Analysing_Events_sample_20180501.html?flush_cache=true) since it has several dynamic visualizations
-  - [places](https://nbviewer.org/github/rosafilgueira/Exploring_TheList_Data/blob/main/html_visualizations/Analysing_Places_sample_20180501.html?flush_cache=true) since it has several dynamic visualizations
+  - events:
+	- [2018_events](https://nbviewer.org/github/rosafilgueira/Exploring_TheList_Data/blob/main/html_visualizations/Analysing_Events_sample_20180501.html?flush_cache=true) since it has several dynamic visualizations
+	- [2019_events](https://nbviewer.org/github/rosafilgueira/Exploring_TheList_Data/blob/main/html_visualizations/Analysing_Events_sample_20190501.html?flush_cache=true) since it has several dynamic visualizations
+	- [2020_events](https://nbviewer.org/github/rosafilgueira/Exploring_TheList_Data/blob/main/html_visualizations/Analysing_Events_sample_20200501.html?flush_cache=true) since it has several dynamic visualizations
+
+  - places:
+       [2018_places](https://nbviewer.org/github/rosafilgueira/Exploring_TheList_Data/blob/main/html_visualizations/Analysing_Places_sample_20180501.html?flush_cache=true) since it has several dynamic visualizations
 
 ## 2. Downloading Events and Places Sample Dataset
 
