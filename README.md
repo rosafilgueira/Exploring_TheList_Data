@@ -1,6 +1,5 @@
 # Exploring_TheList_Data
 
-
 This repo has a collection of scripts, and notebooks for mining [The LIST](https://api.list.co.uk/). The API serves two main types of **data events and places**. 
 
 Here we can find facilities for: 
