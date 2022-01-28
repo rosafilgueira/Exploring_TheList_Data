@@ -8,6 +8,8 @@ Here we can find facilities for:
 - Exploring and Analysing Events - Mining Events - Using Pandas DataFrames & Deep Learning Transformers.  
 - Exploring and Analysing Places - Mining Places - Using Pandas DataFrames & Deep Learning Transformers.  
 
+- **Additional**: Utilities to Load and Ingest to ES real dataset. Real data set is not available in the github. 
+
 ## 0. Preparations
 
 We recommend to install the requirements specified in requirements.txt for sections 2 to 5.
@@ -79,3 +81,13 @@ Data can be also stored in ElasticSearch. Once you have your data downloaded (se
 At the end of these steps you will events and data stored in your ElasticSearch. You can visualise this data (once is in ES) automatically also using Kibana. 
 
 **Note**: The [LIST_API notebook](./LIST_API.ipynb) has aditional information that can be useful for this step.
+
+
+In case you have access to datasets from the LIST of previous years, you can also try:
+    ```
+	 cd Ingesting_ES_RealDataSet
+         python create_load_indexes_ES.py
+
+    ```
+
+Those datasets are not available in this repository.  
