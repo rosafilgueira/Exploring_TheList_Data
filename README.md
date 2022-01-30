@@ -18,7 +18,7 @@ Note: A FREE account is limited to 1,000 requests per month.
 
 ## LIST Dataset 2018 to 2021
 
-This collection of resources are intended for users with access to LIST dataset from **2018 to 2021**. Therefore, only users with access to this dataset will be able to run the notebooks locally. However, the results of our primilary analyses area available in HTML format.  
+This collection of resources are intended for users with access to LIST dataset from **2018 to 2021**. Therefore, only users with access to this dataset will be able to run the notebooks locally. However, the results of our primilary analyses are available in HTML format.  
 
 Go to [mining_LIST_2018_2021_data](./mining_LIST_2018_2021_data) for starting mining this type of resource. 
 
