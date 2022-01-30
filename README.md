@@ -2,15 +2,27 @@
 
 This repo has a collection of scripts, and notebooks for mining The LIST. The LIST serves two main types of **data events and places**. 
 
-We have two types of mining resources:
+We have two types of mining resources: one for the **general public** and another one for users which have access to **datasets from 2018 to 2021**.
 
-- 1. For mining data downloaded from the **LIST API**. Go to [mining_LIST_API_data](./mining_LIST_API_data) for more information. This collection of resources are intended to anyone that has previously registered to the [The LIST API](https://api.list.co.uk/), and wants to explore the downloaded through the API.
+The reason for which we have separated them is because the dataset (events and places) downloaded from the LIST API is slightly different (in terms of features) than the one obtained directly from the LIST. 
 
-- 2. For mining the LIST dataset from **2018 to 2021**. This **dataset is not available in this repository**. Go to [mining_LIST_2018_2021_data](./mining_LIST_2018_2021_data) for more information. This collection of resources are intended for users with access to LIST dataset.
+## General Public
+
+This collection of resources are intended to anyone that has previously registered to the [The LIST API](https://api.list.co.uk/), and wants to explore the downloaded through the API.
+
+Go to [mining_LIST_API_data](./mining_LIST_API_data) for starting mining this type of resource.
+
+## LIST Dataset 2018 to 2021
+
+This collection of resources are intended for users with access to LIST dataset from **2018 to 2021**. 
+
+This **dataset is not available in this repository**. 
+
+Go to [mining_LIST_2018_2021_data](./mining_LIST_2018_2021_data) for starting mining this type of resource. 
 
 ## Preparations
 
-We recommend to install the requirements specified in requirements.txt for sections 2 to 5.
+Indepedently of the type of resource to mine, we recommend to install the requirements specified in requirements.txt for sections 2 to 5.
 And also to have Python 3.7+ enviroment. 
 
 ```
