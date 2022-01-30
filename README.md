@@ -1,4 +1,4 @@
-# Exploring The List Data 2018-2021
+# Exploring The List Data
 
 This repo has a collection of scripts, notebooks and HTML visualizations for mining The LIST data. The LIST serves two main types of data: **events and places**. 
 
@@ -6,7 +6,7 @@ We have two types of mining resources: one for the **general public** (*mining_L
 
 The reason for which we have separated them is because data (events and places) downloaded from the LIST API is slightly different (in terms of schema) than the one obtained directly from the LIST. 
 
-Nevertheless, we have included in both directories results from our preliminary analyses in HTML format. 
+Nevertheless, we have included in both directories our results from preliminary analyses in HTML format. 
 
 ## General Public
 
