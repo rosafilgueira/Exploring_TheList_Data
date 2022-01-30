@@ -11,6 +11,8 @@ Here we can find facilities for:
 ## 1. Visualizing Analyses Notebooks
 For visualizing the "Analysing_Events/Places" notebooks we recommend to click here:
 
+	- [events](https://rosafilgueira.github.io/Exploring_TheList_Data/mining_LIST_API_data/html_visualizations/Analysing_Events.html) 
+	- [places](https://rosafilgueira.github.io/Exploring_TheList_Data/mining_LIST_API_data/html_visualizations/Analysing_Places.html) 
 ## 2. Downloading Events and Places Sample Dataset
 
 For downlading data from the [LIST API](https://api.list.co.uk/getting-started), it is necessary to register and get an API KEY.
