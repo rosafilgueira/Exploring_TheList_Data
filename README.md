@@ -6,11 +6,11 @@ We have two types of mining resources: one for the **general public** (*mining_L
 
 The reason for which we have separated them is because data (events and places) downloaded from the LIST API is slightly different (in terms of schema) than the one obtained directly from the LIST. 
 
-Nevertheless, we have included in both directory the results of our analyses in HTML. 
+Nevertheless, we have included in both directory the results of our preliminary analyses in HTML. 
 
 ## General Public
 
-This collection of resources are intended to anyone that has previously registered to the [The LIST API](https://api.list.co.uk/), and wants to explore the downloaded through the API.
+This collection of resources are intended for anyone who has previously registered to the [The LIST API](https://api.list.co.uk/), and wants to explore the downloaded through the API.
 
 Go to [mining_LIST_API_data](./mining_LIST_API_data) for starting mining this type of resource.
 
