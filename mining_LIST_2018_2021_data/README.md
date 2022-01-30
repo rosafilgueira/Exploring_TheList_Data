@@ -27,11 +27,11 @@ A representation of **places** information is visualised bellow:
 
 <img width="1121" alt="places_classes" src="./places_classes.png">
 
-## 4. Running Analyses Notebooks locally
+## 3. Running Analyses Notebooks locally
 
-In order to run "Analysing_Events" and "Analysing_Places" notebooks, you need to download events and places data first (see section 2), and store them in **events.json** and **places.json** files.
+You need access to sample dataset 
 
-## 3. Loading Data to ElasticSearch
+## 4. Loading Data to ElasticSearch
 
 Data can be also stored in ElasticSearch. Once you have your data downloaded (see Section 2) open two terminals and follow the next steps:
 - **Terminal 1)**
