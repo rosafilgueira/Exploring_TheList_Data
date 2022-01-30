@@ -3,6 +3,10 @@ set -x
 
 api_key="INSERT YOUR KEY"
 i="1"
+
+### NUM variable indicates the number of pages to download. Be carreful with this variable. Remember 1000 free downloads per month
+### Each page has 100 places
+
 NUM="10"
 while [ $i -lt $NUM ]
 do

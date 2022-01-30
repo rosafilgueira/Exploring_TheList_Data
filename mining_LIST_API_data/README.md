@@ -26,6 +26,8 @@ These will download data (events and places) in two files (json format):
 - events.json
 - places.json 
 
+Note: Both scripts have the variable *NUM* for indicating the number of pages to download. Users should be carreful with this variable --> Remember 1000 free downloads per month. One page of events contains 20 events, whereas one page of places contains 100 places.
+
 **Note**: The [LIST_API notebook](./LIST_API.ipynb) has aditional information that can be useful for this step. 
 
 ## 3. Events and Places Features
