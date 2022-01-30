@@ -22,7 +22,7 @@ This collection of resources are intended for users with access to LIST dataset 
 
 Go to [mining_LIST_2018_2021_data](./mining_LIST_2018_2021_data) for starting mining this type of resource. 
 
-Note: ** The dataset used in this directory is not available in this repository**. 
+Note: **The dataset used in this directory is not available in this repository**. 
 
 
 ## Preparations
