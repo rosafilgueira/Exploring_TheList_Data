@@ -1,16 +1,15 @@
 ## 1. Visualizing Analyses Notebooks
 For visualizing the "Analysing_Events/Places" notebooks we recommend to click here:
   - events:
-	- [2018_events](https://nbviewer.org/github/rosafilgueira/Exploring_TheList_Data/blob/main/html_visualizations/Analysing_Events_sample_20180501.html?flush_cache=true) since it has several dynamic visualizations
-	- [2019_events](https://nbviewer.org/github/rosafilgueira/Exploring_TheList_Data/blob/main/html_visualizations/Analysing_Events_sample_20190501.html?flush_cache=true) since it has several dynamic visualizations
-	- [2020_events](https://nbviewer.org/github/rosafilgueira/Exploring_TheList_Data/blob/main/html_visualizations/Analysing_Events_sample_20200501.html?flush_cache=true) since it has several dynamic visualizations
-	- [2021_events](https://nbviewer.org/github/rosafilgueira/Exploring_TheList_Data/blob/main/html_visualizations/Analysing_Events_sample_20210501.html?flush_cache=true) since it has several dynamic visualizations
-
+	- [2018_sample_events](https://rosafilgueira.github.io/Exploring_TheList_Data/mining_LIST_2018_2021_data/html_visualizations/Analysing_Events_sample_20180501.html) 
+	- [2019_sample_events](https://rosafilgueira.github.io/Exploring_TheList_Data/mining_LIST_2018_2021_data/html_visualizations/Analysing_Events_sample_20190501.html) 
+	- [2020_sample_events](https://rosafilgueira.github.io/Exploring_TheList_Data/mining_LIST_2018_2021_data/html_visualizations/Analysing_Events_sample_20200501.html) 
+	- [2021_sample_events](https://rosafilgueira.github.io/Exploring_TheList_Data/mining_LIST_2018_2021_data/html_visualizations/Analysing_Events_sample_20210501.html) 
   - places:
-       [2018_places](https://nbviewer.org/github/rosafilgueira/Exploring_TheList_Data/blob/main/html_visualizations/Analysing_Places_sample_20180501.html?flush_cache=true) since it has several dynamic visualizations
+	- [2018_sample_places](https://rosafilgueira.github.io/Exploring_TheList_Data/mining_LIST_2018_2021_data/html_visualizations/Analysing_Places_sample_20180501.html) 
 
 
-## 3. Events and Places Features
+## 2. Events and Places Features
 
 Events and places data are a collection of documents. We have a document (which is a dictionary) per event and per place.
 Bellow we have two examples, one for an event document and another for a place document. 
@@ -32,7 +31,7 @@ A representation of **places** information is visualised bellow:
 
 In order to run "Analysing_Events" and "Analysing_Places" notebooks, you need to download events and places data first (see section 2), and store them in **events.json** and **places.json** files.
 
-## 5. Loading Data to ElasticSearch
+## 3. Loading Data to ElasticSearch
 
 Data can be also stored in ElasticSearch. Once you have your data downloaded (see Section 2) open two terminals and follow the next steps:
 - **Terminal 1)**
