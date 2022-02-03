@@ -2,7 +2,7 @@
 For visualizing the "Analysing_Events/Places" notebooks we recommend to click here:
 
  - case study[**NEW!!**]:  
-       -[case study using sample dataset from 2018 to 2021](https://drive.google.com/file/d/1_VqYiD4EJnx1sfJwkqjOtLDxDlvlw_sk/view?usp=sharing)
+       -[case study using sample dataset from 2018 to 2021](https://nbviewer.org/github/rosafilgueira/Exploring_TheList_Data/blob/main/mining_LIST_2018_2021_data/Case_Study.ipynb)
 
   - events:
 	- [2018_sample_events](https://rosafilgueira.github.io/Exploring_TheList_Data/mining_LIST_2018_2021_data/html_visualizations/Analysing_Events_sample_20180501.html) 
