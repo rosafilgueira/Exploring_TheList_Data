@@ -1,8 +1,11 @@
 ## 1. Visualizing Analyses Notebooks
 For visualizing the "Analysing_Events/Places" notebooks we recommend to click here:
 
+We have several HTML visualizations for our notebooks - so you can see the analyses performed without running them. 
+
+
  - case study[**NEW!!**]:  
-       -[case study using sample dataset from 2018 to 2021](https://nbviewer.org/github/rosafilgueira/Exploring_TheList_Data/blob/main/mining_LIST_2018_2021_data/Case_Study.ipynb)
+       -[case study using sample dataset from 2018 to 2021](https://storage.googleapis.com/case_study_list/Case_Study.html): In this case study with have analysed together all the sample events available from 2018 to 2021. These are our **preliminar** results. In this case study, we can see how the number of events, schedules, performances have drastically changed over the last 4 years.   
 
   - events:
 	- [2018_sample_events](https://rosafilgueira.github.io/Exploring_TheList_Data/mining_LIST_2018_2021_data/html_visualizations/Analysing_Events_sample_20180501.html) 
