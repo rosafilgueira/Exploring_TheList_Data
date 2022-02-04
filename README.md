@@ -37,6 +37,4 @@ pip install -r requirements.txt
 
 ## Case Study
 
-https://storage.googleapis.com/case_study_list/Case_Study_v2.html
-
 In this [case study](https://storage.googleapis.com/case_study_list/Case_Study_v2.html) we have analysed together all the sample events available from 2018 to 2021. These are our **preliminar** results. In this study, we can see how the number of events, schedules, performances have drastically changed over the last 4 years.  
