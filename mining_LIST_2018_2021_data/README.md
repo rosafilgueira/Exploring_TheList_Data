@@ -5,7 +5,7 @@ We have several HTML visualizations for our notebooks - so you can see the analy
 
 
  - case study[**NEW!!**]:  
-       -[case study using sample dataset from 2018 to 2021](https://storage.googleapis.com/case_study_list/Case_Study_v2.html): In this case study with have analysed together all the sample events available from 2018 to 2021. These are our **preliminar** results. In this case study, we can see how the number of events, schedules, performances have drastically changed over the last 4 years.  
+       -[case study using sample dataset from Nov 2017 to 2022](https://storage.googleapis.com/case_study_list/Case_Study_v2.html): In this case study with have analysed together all the sample events available from 2017 to 2022. These are our **preliminar** results. In this case study, we can see how the number of events, schedules, performances have drastically changed over the last 5 years.  
 
      
   - events:
