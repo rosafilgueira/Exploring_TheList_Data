@@ -9,17 +9,17 @@ We have several HTML visualizations for our notebooks - so you can see the analy
 
      
   - events:
-	- [2017_sample_events](https://rosafilgueira.github.io/Exploring_TheList_Data/mining_LIST_2018_2021_data/html_visualizations/Analysing_Events_sample_20171101.html) 
-	- [2018_sample_events](https://rosafilgueira.github.io/Exploring_TheList_Data/mining_LIST_2018_2021_data/html_visualizations/Analysing_Events_sample_20180501.html) 
-	- [2019_sample_events](https://rosafilgueira.github.io/Exploring_TheList_Data/mining_LIST_2018_2021_data/html_visualizations/Analysing_Events_sample_20190501.html) 
-	- [2020_sample_events](https://rosafilgueira.github.io/Exploring_TheList_Data/mining_LIST_2018_2021_data/html_visualizations/Analysing_Events_sample_20200501.html) 
-	- [2021_sample_events](https://rosafilgueira.github.io/Exploring_TheList_Data/mining_LIST_2018_2021_data/html_visualizations/Analysing_Events_sample_20210501.html) 
+	- [2017_sample_events](https://storage.googleapis.com/case_study_list/Analysing_Events_sample_20171101.html) 
+	- [2018_sample_events](https://storage.googleapis.com/case_study_list/Analysing_Events_sample_20180501.html) 
+	- [2019_sample_events](https://storage.googleapis.com/case_study_list/Analysing_Events_sample_20190501.html) 
+	- [2020_sample_events](https://storage.googleapis.com/case_study_list/Analysing_Events_sample__20200501.html) 
+	- [2021_sample_events](https://storage.googleapis.com/case_study_list/Analysing_Events_sample_sample_20210501.html) 
   - places:
-	- [2017_sample_places](https://rosafilgueira.github.io/Exploring_TheList_Data/mining_LIST_2018_2021_data/html_visualizations/Analysing_Places_sample_20171101.html) 
-	- [2018_sample_places](https://rosafilgueira.github.io/Exploring_TheList_Data/mining_LIST_2018_2021_data/html_visualizations/Analysing_Places_sample_20180501.html) 
-	- [2019_sample_places](https://rosafilgueira.github.io/Exploring_TheList_Data/mining_LIST_2018_2021_data/html_visualizations/Analysing_Places_sample_20190501.html) 
-	- [2020_sample_places](https://rosafilgueira.github.io/Exploring_TheList_Data/mining_LIST_2018_2021_data/html_visualizations/Analysing_Places_sample_20100501.html) 
-	- [2021_sample_places](https://rosafilgueira.github.io/Exploring_TheList_Data/mining_LIST_2018_2021_data/html_visualizations/Analysing_Places_sample_20210501.html) 
+	- [2017_sample_places](https://storage.googleapis.com/case_study_list/Analysing_Places_sample_20171101.html) 
+	- [2018_sample_places](https://storage.googleapis.com/case_study_list/Analysing_Places_sample_20180501.html) 
+	- [2019_sample_places](https://storage.googleapis.com/case_study_list/Analysing_Places_sample_20190501.html) 
+	- [2020_sample_places](https://storage.googleapis.com/case_study_list/Analysing_Places_sample_20100501.html) 
+	- [2021_sample_places](https://storage.googleapis.com/case_study_list/Analysing_Places_sample_20210501.html) 
 
 
 ## 2. Events and Places Features
