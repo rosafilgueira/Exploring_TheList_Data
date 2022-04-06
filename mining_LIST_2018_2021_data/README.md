@@ -1,26 +1,24 @@
-## 1. Visualizing Analyses Notebooks
-For visualizing the "Analysing_Events/Places" notebooks we recommend to click here:
-
-We have several HTML visualizations for our notebooks - so you can see the analyses performed without running them. 
-
+## 1 Notebooks
+We have created two notebooks that allows you to run different analyses at different levels (events, schedules, performances):
+    - 1.[Genearate_List_Dataframes](./Generate_List_Dataframes.ipynb): This notebook takes care of generating all the necessary dataframes for doing later further analyeses. The reason for this is because the data has been **flatten to json documents**. When we upload them into dataframes some columns contains dictionaries and/or list (e.g. schedules, tags, performances, tickets, descriptions, etc). So, we need to explode them and create different dataframes. This notebook will create the following dataframes and stored in a directory (by default into "dataframe" directory):
+    - df_events: original version of events dataframe
+    - df_new_events: improved version of events dataframe - we will use this one for our analyses
+    - df_places: places dataframe
+    - df_s: schedules dataframe 
+    - df_p: performances dataframe
+    - df_tickets: tickets dataframe
+    - df_perfomance_tickets: performances and tickets (with revenue) dataframe
+    - df_schedule_revenue: schedule and revenue dataframe
+    - df_desc: description dataframe (without place information)
+    - df_desc_town: description dataframe with place information
+    
+   -2.[]
 
  - case study[**NEW!!**]:  
        -[case study using sample dataset from Nov 2017 to 2022](https://storage.googleapis.com/case_study_list/Case_Study_v2.html): In this case study with have analysed together all the sample events available from 2017 to 2022. These are our **preliminar** results. In this case study, we can see how the number of events, schedules, performances have drastically changed over the last 5 years.  
 
-     
-  - events:
-	- [2017_sample_events](https://storage.googleapis.com/case_study_list/Analysing_Events_sample_20171101.html) 
-	- [2018_sample_events](https://storage.googleapis.com/case_study_list/Analysing_Events_sample_20180501.html) 
-	- [2019_sample_events](https://storage.googleapis.com/case_study_list/Analysing_Events_sample_20190501.html) 
-	- [2020_sample_events](https://storage.googleapis.com/case_study_list/Analysing_Events_sample__20200501.html) 
-	- [2021_sample_events](https://storage.googleapis.com/case_study_list/Analysing_Events_sample_sample_20210501.html) 
-  - places:
-	- [2017_sample_places](https://storage.googleapis.com/case_study_list/Analysing_Places_sample_20171101.html) 
-	- [2018_sample_places](https://storage.googleapis.com/case_study_list/Analysing_Places_sample_20180501.html) 
-	- [2019_sample_places](https://storage.googleapis.com/case_study_list/Analysing_Places_sample_20190501.html) 
-	- [2020_sample_places](https://storage.googleapis.com/case_study_list/Analysing_Places_sample_20100501.html) 
-	- [2021_sample_places](https://storage.googleapis.com/case_study_list/Analysing_Places_sample_20210501.html) 
-
+ 
+ 
 
 ## 2. Events and Places Features
 
