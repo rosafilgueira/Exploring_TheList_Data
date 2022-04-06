@@ -1,16 +1,16 @@
 ## 1 Notebooks
 We have created two notebooks that allows you to run different analyses at different levels (events, schedules, performances):
     - 1.[Genearate_List_Dataframes](./Generate_List_Dataframes.ipynb): This notebook takes care of generating all the necessary dataframes for doing later further analyeses. The reason for this is because the data has been **flatten to json documents**. When we upload them into dataframes some columns contains dictionaries and/or list (e.g. schedules, tags, performances, tickets, descriptions, etc). So, we need to explode them and create different dataframes. This notebook will create the following dataframes and stored in a directory (by default into "dataframe" directory):
-    - df_events: original version of events dataframe
-    - df_new_events: improved version of events dataframe - we will use this one for our analyses
-    - df_places: places dataframe
-    - df_s: schedules dataframe 
-    - df_p: performances dataframe
-    - df_tickets: tickets dataframe
-    - df_perfomance_tickets: performances and tickets (with revenue) dataframe
-    - df_schedule_revenue: schedule and revenue dataframe
-    - df_desc: description dataframe (without place information)
-    - df_desc_town: description dataframe with place information
+        - df_events: original version of events dataframe
+        - df_new_events: improved version of events dataframe - we will use this one for our analyses
+        - df_places: places dataframe
+        - df_s: schedules dataframe 
+        - df_p: performances dataframe
+        - df_tickets: tickets dataframe
+        - df_perfomance_tickets: performances and tickets (with revenue) dataframe
+        - df_schedule_revenue: schedule and revenue dataframe
+        - df_desc: description dataframe (without place information)
+        - df_desc_town: description dataframe with place information
     
    -2.[]
 
