@@ -14,6 +14,8 @@ We have created two notebooks that allows you to run different analyses and visu
      - df_desc_town: events and their performances description dataframe with place information
     
    - [City_Case_Study_Template](./City_Case_Study_Template.ipynb): This notebook allows you to perform many different analyses and visualizations (e.g. frequency, topic modelling, histograms, maps, etc.) at different levels and periods of time: 
+   
+   
          -  1. Working at EVENT Level
             - 1.1 Exploring Category Events
                 - 1.1.a Frequency of Events per Category - wihout taking account the frequency of each event across snapshots
