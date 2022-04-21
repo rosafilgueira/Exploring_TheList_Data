@@ -42,6 +42,7 @@ We have created two notebooks that allows you to run different analyses and visu
                 - 3.5.1 Plot of Performances Places
                 - 3.5.2 Plot of Performances Places Frequency
                 - 3.5.3 Selecting the Festival Month and Plotting Performances Places and their Frequency
+                - 3.5.4 Selecting the Festival Month and Plotting Performances Places and their Frequency by selected Category
 
           - 4. Working at Tickets level - We do these analyses using all the dates available (full period) & for the specific month over the years
             - 4.1 Tickets Frequency per Category at the selected city
