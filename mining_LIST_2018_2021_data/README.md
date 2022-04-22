@@ -13,7 +13,7 @@ We have created two notebooks that allows you to run different analyses and visu
      - df_desc: events and their performances descriptions dataframe (without place information)
      - df_desc_town: events and their performances description dataframe with place information
     
-   - [City_Case_Study_Template](./City_Case_Study_Template.ipynb): This notebook allows you to perform many different analyses and visualizations (e.g. frequency, topic modelling, histograms, maps, etc.) at different levels and periods of time: 
+   - [The Customize Case Study Maker](./Case Study_Maker.ipynb): This notebook allows you to perform many different analyses and visualizations (e.g. frequency, topic modelling, histograms, maps, etc.) at different levels and periods of time: 
    
    
          -  1. Working at EVENT Level
