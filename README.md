@@ -28,9 +28,11 @@ Note: **The dataset used in this directory is not available in this repository**
 ## Preparations
 
 Indepedently of the type of resource to mine, we recommend to install the requirements specified in requirements.txt for sections 2 to 5.
-And also to have Python 3.7+ enviroment. 
+And also to have Python 3.9+ enviroment. 
 
 ```
+conda create --name py39 python=3.9
+conda activate py39
 pip install -r requirements.txt 
 
 ```
