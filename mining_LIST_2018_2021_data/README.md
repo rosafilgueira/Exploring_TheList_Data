@@ -17,6 +17,7 @@ We have created two notebooks that allows you to run different analyses and visu
    
    
          -  1. Working at EVENT Level
+         -   1.0 Exploring Tags Events
             - 1.1 Exploring Category Events
                 - 1.1.a Frequency of Events per Category - wihout taking account the frequency of each event across snapshots
                 - 1.1.b Frequency of Events per Category - taking account the frequency of each event across snapshots
@@ -43,6 +44,7 @@ We have created two notebooks that allows you to run different analyses and visu
                 - 3.5.2 Plot of Performances Places Frequency
                 - 3.5.3 Selecting the Festival Month and Plotting Performances Places and their Frequency
                 - 3.5.4 Selecting the Festival Month and Plotting Performances Places and their Frequency by selected Category
+                - 3.5.6 Exploring Tags at Peformance Level
 
           - 4. Working at Tickets level - We do these analyses using all the dates available (full period) & for the specific month over the years
             - 4.1 Tickets Frequency per Category at the selected city
