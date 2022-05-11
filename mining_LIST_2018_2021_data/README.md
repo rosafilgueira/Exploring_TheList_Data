@@ -58,7 +58,7 @@ We have created two notebooks that allows you to run different analyses and visu
 
         This notebook  allows you to perform custom configurations: 1) select the **city** (e.g. Edinburgh) to study ; 2) select a **category list**  (e.g. Music, Books, Theatre, ...) to study ; 3) select a **month** to study over the years (e.g. August to study the Fringe Festival in Edinburgh). In order to run this notebook, you need to have run [Genearate_List_Dataframes](./Generate_List_Dataframes.ipynb) first, since it uses the dataframes described before. We have run this notebook for two cities:
       - [City_Case_Study_Edinburgh](https://storage.googleapis.com/case_study_list/City_Case_Study_Edinburgh.html)
-      - [City_Case_Study_StAndrews](https://storage.googleapis.com/case_study_list/City_Case_Study_StAndrews.html)
+      - [City_Case_Study_StAndrews](https://storage.googleapis.com/case_study_list/City_Case_Study_St_Andrews.html)
     
 
  
