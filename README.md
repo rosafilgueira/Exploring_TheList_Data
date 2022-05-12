@@ -37,9 +37,9 @@ pip install -r requirements.txt
 
 ```
 
-## Case Study Edinburgh and St Andrews
+## Case Studies: Edinburgh (August) and St Andrews (March)
 
- - [City_Case_Study_Edinburgh](https://storage.googleapis.com/case_study_list/City_Case_Study_Edinburgh.html)
- - [City_Case_Study_StAndrews](https://storage.googleapis.com/case_study_list/City_Case_Study_StAndrews.html)
+- [City_Case_Study_Edinburgh](https://storage.googleapis.com/case_study_list/City_Case_Study_Edinburgh.html)
+- [City_Case_Study_StAndrews](https://storage.googleapis.com/case_study_list/City_Case_Study_St_Andrews.html)
       
 In those HTML/notebooks we have analysed together all the sample events available from 2017 to 2022, one for Edinburgh, and another one for St Andrews. These are our **preliminar** results. In this study, we can see how the number of events, schedules, performances have drastically changed over the last 5 years.  
