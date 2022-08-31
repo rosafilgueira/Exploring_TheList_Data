@@ -76,11 +76,11 @@ Bellow we have two examples, one for an event document and another for a place d
 
 A representation of **events** information is visualised  bellow:
 
-<img width="1121" alt="events_classes" src="./events_classes.png">
+<img width="1121" alt="events_classes" src="./events_classes_dm.png">
 
 A representation of **places** information is visualised bellow:
 
-<img width="1121" alt="places_classes" src="./places_classes.png">
+<img width="1121" alt="places_classes" src="./places_classes_dm.png">
 
 ## 3. Running Analyses Notebooks locally
 
